@@ -93,3 +93,8 @@
     height: 152px;
   }
 }
+
+html, body {
+    overflow: hidden;
+    height: 100%;
+}
